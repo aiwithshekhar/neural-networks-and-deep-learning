@@ -8,7 +8,7 @@ using backpropagation.  Note that I have focused on making the code
 simple, easily readable, and easily modifiable.  It is not optimized,
 and omits many desirable features.
 """
-
+print ('Adding heading')
 #### Libraries
 # Standard library
 import random
