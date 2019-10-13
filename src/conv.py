@@ -8,7 +8,7 @@ the text, so this is simply a convenience, and has not been commented
 in detail.  Consult the original text for more details.
 
 """
-print ('HI')
+
 from collections import Counter
 
 import matplotlib
